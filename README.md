@@ -6,8 +6,6 @@ Learn how to create, write, and execute programs using both JavaScript and Pytho
 ## Files
 - [javascript/app.js](javascript/app.js) — JavaScript program that displays name, age, and favorite programming language(s).
 - [python/main.py](python/main.py) — Python program that displays name, city, and favorite hobby.
-- screenshots/js-output.png — (add after running `node`) 
-- screenshots/python-output.png — (add after running `python`)
 
 ## How to run
 - JavaScript (Node.js):
@@ -21,7 +19,7 @@ node javascript/app.js
 ```bash
 python python/main.py
 ```
-
+<!--
 Take a screenshot of each program's output and save them as `screenshots/js-output.png` and `screenshots/python-output.png`.
 
 ## Submission Checklist
@@ -39,3 +37,4 @@ When you complete additional assignments, add a new section below with the assig
 - Run: command to run
 - Screenshots: screenshots/assignment2-output.png
 ```
+-->
